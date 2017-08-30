@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="Swoo_Android.maven.AppTest">
+        <methods>
+          <include name="AfterClassMethod"/>
+          <include name="GuestUserBroadcast"/>
+          <include name="GuestUserWatchLaterFollowingMyBroadcast"/>
+          <include name="LoginButtonFunctionality"/>
+          <include name="GuestUserBroadcastHome"/>
+          <include name="GuestUserDiscoverSearch"/>
+          <include name="MemberUserBroadcastAskForIntviteFunctionality"/>
+          <include name="LoginValidPhoneValidOTP"/>
+          <include name="GuestUserBroadcastDetails"/>
+          <include name="GuestUserCommunity"/>
+          <include name="GuestUserNetworkFollowingFollowers"/>
+          <include name="GuestUserLike"/>
+          <include name="GuestUserDiscover"/>
+          <include name="beforeClassMethod"/>
+          <include name="GuestUserBroadcastNotification"/>
+          <include name="MemberUserBroadcast"/>
+          <include name="MemberUserBroadcastVideoPlay"/>
+          <include name="GuestUserFollow"/>
+          <include name="NewUserLogin"/>
+        </methods>
+      </class> <!-- Swoo_Android.maven.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
